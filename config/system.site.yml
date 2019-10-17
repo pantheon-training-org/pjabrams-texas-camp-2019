@@ -1,0 +1,14 @@
+uuid: 6879f4ee-3e85-4e5d-9da2-0e3616c4b9ff
+name: pjabrams-texas-camp-2019
+mail: andrew+build-project-create@pantheon.io
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
